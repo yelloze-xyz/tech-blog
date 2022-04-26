@@ -136,15 +136,18 @@ MVI 패턴은 `Intent -> Model -> View`라는 단방향 흐름(Uni Directional F
 
 <!-- undraw -->
 
-[undraw_art_museum]: https://github.com/yelloze-xyz/tech-blog/blob/main//assets/images/undraw_art_museum.png?raw=true
+[undraw_art_museum]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/undraw/undraw_art_museum.png?raw=true
+[undraw_code_inspection]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/undraw/undraw_code_inspection.png?raw=true
+[undraw_static_website]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/undraw/undraw_static_website.png?raw=true
 
 <!-- disign patterns -->
 
-[design_patterns_mvc]: https://github.com/yelloze-xyz/tech-blog/blob/main/assets/images/design_patterns_mvc.jpg?raw=true
-[design_patterns_mvi]: https://github.com/yelloze-xyz/tech-blog/blob/main/assets/images/design_patterns_mvi.jpg?raw=true
-[design_patterns_mvp]: https://github.com/yelloze-xyz/tech-blog/blob/main/assets/images/design_patterns_mvp.jpg?raw=true
-[design_patterns_mvvm]: https://github.com/yelloze-xyz/tech-blog/blob/main/assets/images/design_patterns_mvvm.jpg?raw=true
+[design_patterns_mvc]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/design_patterns/design_patterns_mvc.jpg?raw=true
+[design_patterns_mvi]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/design_patterns/design_patterns_mvi.jpg?raw=true
+[design_patterns_mvp]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/design_patterns/design_patterns_mvp.jpg?raw=true
+[design_patterns_mvvm]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/design_patterns/design_patterns_mvvm.jpg?raw=true
 
-<!-- etc -->
+<!-- images -->
 
-[the_clean_architecture]: https://github.com/yelloze-xyz/tech-blog/blob/main/assets/images/the_clean_architecture.jpeg?raw=true
+[highlight_common_languages]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/images/highlight_common_languages.png?raw=true
+[the_clean_architecture]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/images/the_clean_architecture.jpeg?raw=true

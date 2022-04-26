@@ -144,20 +144,22 @@ CDN 사이트에 들어가서 원하는 테마를 선택해주세요. 파일명 
 <!-- ---------- define ---------- -->
 <!-- ---------------------------- -->
 
-<!-- unsplash -->
+<!-- undraw -->
 
-[undraw_static_website]: https://github.com/yelloze-xyz/tech-blog/blob/main//assets/images/undraw_static_website.png?raw=true
+[undraw_art_museum]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/undraw/undraw_art_museum.png?raw=true
+[undraw_code_inspection]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/undraw/undraw_code_inspection.png?raw=true
+[undraw_static_website]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/undraw/undraw_static_website.png?raw=true
 
 <!-- markdown -->
 
-[markdown_after1]: https://github.com/yelloze-xyz/tech-blog/blob/main//assets/images/markdown_after1.png?raw=true
-[markdown_after2]: https://github.com/yelloze-xyz/tech-blog/blob/main//assets/images/markdown_after2.png?raw=true
-[markdown_before]: https://github.com/yelloze-xyz/tech-blog/blob/main//assets/images/markdown_before.png?raw=true
-[markdown_velog]: https://github.com/yelloze-xyz/tech-blog/blob/main//assets/images/markdown_velog.png?raw=true
+[markdown_after1]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/markdown/markdown_after1.png?raw=true
+[markdown_after2]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/markdown/markdown_after2.png?raw=true
+[markdown_before]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/markdown/markdown_before.png?raw=true
+[markdown_velog]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/markdown/markdown_velog.png?raw=true
 
 <!-- admin -->
 
-[admin_html_apply]: https://github.com/yelloze-xyz/tech-blog/blob/main//assets/images/admin_html_apply.png?raw=true
-[admin_html_edit]: https://github.com/yelloze-xyz/tech-blog/blob/main//assets/images/admin_html_edit.png?raw=true
-[admin_html_head]: https://github.com/yelloze-xyz/tech-blog/blob/main//assets/images/admin_html_head.png?raw=true
-[admin_skin_edit]: https://github.com/yelloze-xyz/tech-blog/blob/main//assets/images/admin_skin_edit.png?raw=true
+[admin_html_apply]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/admin/admin_html_apply.png?raw=true
+[admin_html_edit]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/admin/admin_html_edit.png?raw=true
+[admin_html_head]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/admin/admin_html_head.png?raw=true
+[admin_skin_edit]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/admin/admin_skin_edit.png?raw=true

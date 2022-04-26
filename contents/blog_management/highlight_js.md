@@ -41,9 +41,9 @@
 
 통합으로 사용하겠다고 한다면 CDN 사이트 목록 중 가장 위에 있는 `/highlight.min.js`를 사용하면 됩니다. 일반적으로 제공되는 언어가 궁금하다면 공식 사이트에서 확인이 가능합니다.
 
-| `/highlight.min.js` 기본 제공 언어 목록                  |
-| -------------------------------------------------------- |
-| <img src="../resource/highlight_common_languages.png" /> |
+| `/highlight.min.js` 기본 제공 언어 목록 |
+| --------------------------------------- |
+| ![highlight_common_languages]           |
 
 만약 자신이 지원하고 싶은 언어가 기본 제공 언어에 해당하지 않는다면 `/highlight.min.js`를 붙여넣은 곳 아래에 `/languages/*.min.js` 코드를 추가로 붙여넣으면 됩니다.
 
@@ -197,22 +197,27 @@
 <!-- ---------- define ---------- -->
 <!-- ---------------------------- -->
 
-<!-- unsplash -->
+<!-- undraw -->
 
-[undraw_code_inspection]: https://github.com/yelloze-xyz/tech-blog/blob/main//assets/images/undraw_code_inspection.png?raw=true
+[undraw_art_museum]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/undraw/undraw_art_museum.png?raw=true
+[undraw_code_inspection]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/undraw/undraw_code_inspection.png?raw=true
+[undraw_static_website]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/undraw/undraw_static_website.png?raw=true
 
 <!-- markdown -->
 
-[markdown_after1]: https://github.com/yelloze-xyz/tech-blog/blob/main//assets/images/markdown_after1.png?raw=true
-[markdown_after2]: https://github.com/yelloze-xyz/tech-blog/blob/main//assets/images/markdown_after2.png?raw=true
-[markdown_before]: https://github.com/yelloze-xyz/tech-blog/blob/main//assets/images/markdown_before.png?raw=true
-[markdown_velog]: https://github.com/yelloze-xyz/tech-blog/blob/main//assets/images/markdown_velog.png?raw=true
+[markdown_after1]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/markdown/markdown_after1.png?raw=true
+[markdown_after2]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/markdown/markdown_after2.png?raw=true
+[markdown_before]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/markdown/markdown_before.png?raw=true
+[markdown_velog]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/markdown/markdown_velog.png?raw=true
 
 <!-- admin -->
 
-[admin_html_apply]: https://github.com/yelloze-xyz/tech-blog/blob/main//assets/images/admin_html_apply.png?raw=true
-[admin_html_edit]: https://github.com/yelloze-xyz/tech-blog/blob/main//assets/images/admin_html_edit.png?raw=true
-[admin_html_head]: https://github.com/yelloze-xyz/tech-blog/blob/main//assets/images/admin_html_head.png?raw=true
-[admin_skin_edit]: https://github.com/yelloze-xyz/tech-blog/blob/main//assets/images/admin_skin_edit.png?raw=true
+[admin_html_apply]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/admin/admin_html_apply.png?raw=true
+[admin_html_edit]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/admin/admin_html_edit.png?raw=true
+[admin_html_head]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/admin/admin_html_head.png?raw=true
+[admin_skin_edit]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/admin/admin_skin_edit.png?raw=true
 
-<!-- etc -->
+<!-- images -->
+
+[highlight_common_languages]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/images/highlight_common_languages.png?raw=true
+[the_clean_architecture]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/images/the_clean_architecture.jpeg?raw=true
