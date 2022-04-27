@@ -1,10 +1,8 @@
-# 티스토리 제목 및 문단에 여백 추가하기
+# 티스토리에 제목 및 문단 여백 적용기
 
-안녕하세요.
-
-| 마진 & 패딩                          |
-| ------------------------------------ |
-| <img src="./source_introduce.png" /> |
+| 마진 & 패딩        |
+| ------------------ |
+| ![space_introduce] |
 
 ![undraw_modern_design]
 
@@ -24,13 +22,13 @@
   -->
   <!-- 제목 위에 공백 추가 -->
   <style>
-    .markdown-body h1,
-    .markdown-body h2,
-    .markdown-body h3,
-    .markdown-body h4,
-    .markdown-body h5,
-    .markdown-body h6 {
-      margin-top: 48px;
+    .tt_article_useless_p_margin h1,
+    .tt_article_useless_p_margin h2,
+    .tt_article_useless_p_margin h3,
+    .tt_article_useless_p_margin h4,
+    .tt_article_useless_p_margin h5,
+    .tt_article_useless_p_margin h6 {
+      margin-top: 2em;
     }
   </style>
   <!-- 제목 위에 공백 추가 완료 -->
@@ -78,3 +76,16 @@
 [undraw_code_inspection]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/undraw/undraw_code_inspection.png?raw=true
 [undraw_modern_design]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/undraw/undraw_modern_design.png?raw=true
 [undraw_static_website]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/undraw/undraw_static_website.png?raw=true
+
+<!-- admin -->
+
+[admin_html_apply]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/admin/admin_html_apply.png?raw=true
+[admin_html_edit]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/admin/admin_html_edit.png?raw=true
+[admin_html_head]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/admin/admin_html_head.png?raw=true
+[admin_skin_edit]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/admin/admin_skin_edit.png?raw=true
+
+<!-- images -->
+
+[highlight_common_languages]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/images/highlight_common_languages.png?raw=true
+[space_introduce]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/images/space_introduce.png?raw=true
+[the_clean_architecture]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/images/the_clean_architecture.jpeg?raw=true
