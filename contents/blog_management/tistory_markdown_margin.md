@@ -2,9 +2,11 @@
 
 안녕하세요.
 
-| 마진 & 패딩                     |
+| 마진 & 패딩                          |
 | ------------------------------------ |
 | <img src="./source_introduce.png" /> |
+
+![undraw_modern_design]
 
 #### 3-2. 제목 및 단락 사이에 여백 추가하기 (Optional)
 
@@ -65,3 +67,14 @@
   ...
 </head>
 ```
+
+<!-- ---------------------------- -->
+<!-- ---------- define ---------- -->
+<!-- ---------------------------- -->
+
+<!-- undraw -->
+
+[undraw_art_museum]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/undraw/undraw_art_museum.png?raw=true
+[undraw_code_inspection]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/undraw/undraw_code_inspection.png?raw=true
+[undraw_modern_design]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/undraw/undraw_modern_design.png?raw=true
+[undraw_static_website]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/undraw/undraw_static_website.png?raw=true
