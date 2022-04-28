@@ -1,3 +1,7 @@
+<!-- ---------------------------- -->
+<!-- ---------- define ---------- -->
+<!-- ---------------------------- -->
+
 <!-- markdown -->
 
 [markdown_after1]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/markdown/markdown_after1.png?raw=true

@@ -1,3 +1,7 @@
+<!-- ---------------------------- -->
+<!-- ---------- define ---------- -->
+<!-- ---------------------------- -->
+
 <!-- images -->
 
 [highlight_common_languages]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/images/highlight_common_languages.png?raw=true

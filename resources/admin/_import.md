@@ -1,3 +1,7 @@
+<!-- ---------------------------- -->
+<!-- ---------- define ---------- -->
+<!-- ---------------------------- -->
+
 <!-- admin -->
 
 [admin_html_apply]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/admin/admin_html_apply.png?raw=true

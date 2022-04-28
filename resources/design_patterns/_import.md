@@ -1,3 +1,7 @@
+<!-- ---------------------------- -->
+<!-- ---------- define ---------- -->
+<!-- ---------------------------- -->
+
 <!-- disign patterns -->
 
 [design_patterns_mvc]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/design_patterns/design_patterns_mvc.jpg?raw=true

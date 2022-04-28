@@ -1,3 +1,7 @@
+<!-- ---------------------------- -->
+<!-- ---------- define ---------- -->
+<!-- ---------------------------- -->
+
 <!-- undraw -->
 
 [undraw_art_museum]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/undraw/undraw_art_museum.png?raw=true
