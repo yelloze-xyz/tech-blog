@@ -2,9 +2,9 @@
 <!-- ---------- define ---------- -->
 <!-- ---------------------------- -->
 
-<!-- disign patterns -->
+<!-- modern android development -->
 
-[mad_arch_data_overview]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/design_patterns/mad_arch_data_overview.jpg?raw=true
+[mad_arch_data_overview]: https://github.com/yelloze-xyz/tech-blog/blob/master/resources/mad/mad_arch_data_overview.png?raw=true
 
 <!-- sample -->
 

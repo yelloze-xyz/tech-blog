@@ -1,0 +1,9 @@
+{
+    "markdown.extension.toc.levels": "2..5",
+    "markdown.extension.toc.downcaseLink": true,
+    "markdown.extension.italic.indicator": "_",
+    "markdown.extension.orderedList.marker": "ordered",
+    "markdown.extension.toc.orderedList": true,
+    "markdown.extension.toc.plaintext": false,
+    "markdown.extension.preview.autoShowPreviewToSide": true
+}
